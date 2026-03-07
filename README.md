@@ -1,5 +1,4 @@
-![Cool GIF](https://i.pinimg.com/originals/71/92/b3/7192b36dadb8d4dd4eb71a4227cc6a95.gif)
-
+![cool-banner-gif](https://github.com/user-attachments/assets/daa7c4f4-ebd4-4b8f-a96f-855a7e0ddd00)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
