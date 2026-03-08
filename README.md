@@ -3,6 +3,17 @@
 
 <h1 align="center">⋆｡🍵˚୨ Hello! I am Siddhi Mishra. ୧˚🌿｡⋆</h1>
 
+Hi! I’m a Computer Science undergrad at BITS Pilani, Dubai (2023–2027) passionate about AI, cybersecurity, and building tech for social impact. I love turning data into actionable insights, exploring ethical and sustainable tech solutions, and empowering women in tech through mentorship and community initiatives.
+
+Some highlights:
+
+Built AI-driven dashboards and machine learning projects for real-world applications
+
+Explored cybersecurity challenges through hands-on CTFs and threat analysis
+
+Active in initiatives promoting diversity, sustainability, and tech education
+
+Always excited to collaborate, learn, and innovate in AI, cybersecurity, and tech for good.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddhimishra.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/siddhi-mishra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mishra.siddhi.2905  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishra.siddhi.2905@gmail.com) 
